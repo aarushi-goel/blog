@@ -4,9 +4,7 @@ title: Launching with a Launcher
 date: 2020-4-4
 ---
 
-# Launching with a Launcher
-
-For my new Android proect, I have decided to build a mini launcher. 
+For my new Android project, I have decided to build a mini launcher. 
 
 With the recent developments of working at home, I found myself constantly going back to my phone for more news feeds, more notifications and a lot more activity on the phone than I had been doing. 
 
